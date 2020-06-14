@@ -18,7 +18,7 @@ import static androidx.test.espresso.matcher.ViewMatchers.withId;
 import static org.junit.Assert.*;
 
 @RunWith(AndroidJUnit4.class)
-public class ExampleInstrumentedTest {
+public class MainActivityInstrumentedTest {
 
 @Rule
 public IntentsTestRule<MainActivity> intentsTestRule = new IntentsTestRule<>(MainActivity.class);
